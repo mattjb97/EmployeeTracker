@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "inquire": "^0.4.8",
+    "inquirer": "^8.0.0",
     "mysql": "^2.18.1"
   }
 }
